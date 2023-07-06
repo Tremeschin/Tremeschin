@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" style="vertical-align: middle;" width="100">
+  
+  ![Skills](https://skillicons.dev/icons?i=py,linux,vscode,react,latex,rust,c,html,css,github)
 </div>
+
+
 
 <br>
 
