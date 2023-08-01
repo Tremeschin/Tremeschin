@@ -9,8 +9,8 @@
 <br>
 
 <div align="center">
-  <a><img style="width: 54%" src="https://github-readme-stats.vercel.app/api?username=Tremeschin&show_icons=true&count_private=true&include_all_commits=true"/></a>
-  <a><img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tremeschin&layout=compact"/></a>
+  <a><img style="width: 56%" src="https://tremeschin-readme-stats.vercel.app/api?include_all_commits=true&count_private=true&username=Tremeschin&show_icons=true&role=OWNER,ORGANIZATION_MEMBER"/></a>
+  <a><img style="width: 42%" src="https://tremeschin-readme-stats.vercel.app/api/top-langs?username=Tremeschin&count_private=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER"/></a>
 </div>
 
 <br>
