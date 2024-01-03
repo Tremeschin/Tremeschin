@@ -19,9 +19,9 @@ I'm an **⚡️ Electrical Engineer**, **🎵 Music Producer**, and **👨‍�
 
 My journey is marked by **Innovation**, **Creativity**, and a relentless pursuit of knowledge. **Uniqueness** and **Originality** are my forte, and I'm always looking for new ways to push the boundaries of technology. I am building not just _software_, but a **Legacy**.
 
-- ❤️‍🩹 I'm the **Founder** and **Lead Developer** of [**Broken Source Software**](https://github.com/BrokenSource/)
-- **📚 Languages I speak**: (🇧🇷 LN) (🇺🇸 C1) (🇯🇵 A1-) (🇮🇹 Eventually?)
-- **🧐 Secret** Code: 🔱🐙🪶
+- I'm the **Founder** and **Lead Developer** of [**Broken Source Software**](https://github.com/BrokenSource/)
+- **Languages I speak**: (🇧🇷 LN) (🇺🇸 C1) (🇯🇵 A1-) (🇮🇹 Eventually?)
+- **Secret** Code: 🔱🐙🪶
 
 <sub>
 <details>
