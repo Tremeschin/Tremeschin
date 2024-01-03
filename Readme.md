@@ -7,7 +7,7 @@
 
   <br>
 
-  <img src="https://img.shields.io/github/followers/Tremeschin" alt="Followers Badge"/>
+  <img src="https://img.shields.io/github/followers/Tremeschin?style=flat" alt="Followers Badge"/>
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FTremeschin%2FTremeschin.json%3Fshow%3Dunique&label=Visitors&color=blue"/>
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FTremeschin%2FTremeschin.json&label=Page%20Views&color=blue"/>
 
@@ -22,6 +22,22 @@ My journey is marked by **Innovation**, **Creativity**, and a relentless pursuit
 - ❤️‍🩹 I'm the **Founder** and **Lead Developer** of [**Broken Source Software**](https://github.com/BrokenSource/)
 - **📚 Languages I speak**: (🇧🇷 LN) (🇺🇸 C1) (🇯🇵 A1-) (🇮🇹 Eventually?)
 - **🧐 Secret** Code: 🔱🐙🪶
+
+<sub>
+<details>
+<summary>💔 Fix me</summary>
+
+<h3><i>Hopeless Hope_</i></h3>
+<br>
+
+I'm _Broken_ emotionally for a while now ~ touch starve aloneliness
+
+<br>
+<br>
+</details>
+</sub>
+
+<br>
 
 ## 🔥 Key Projects
 - **[BrokenSource/BrokenSource](https://github.com/BrokenSource/BrokenSource):** The **Framework** that powers all of my projects.
