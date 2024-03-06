@@ -40,8 +40,10 @@ I'm _Broken_ emotionally for a while now ~ touch starve aloneliness
 <br>
 
 ## 🔥 Key Projects
-- **[BrokenSource/BrokenSource](https://github.com/BrokenSource/BrokenSource):** The **Framework** that powers all of my projects.
+- **[BrokenSource/BrokenSource](https://github.com/BrokenSource/BrokenSource):** The **Framework** that powers all of my projects, automation and consistency.
+- **[BrokenSource/SpectroNote](https://github.com/BrokenSource/SpectroNote):** Piano-Perfect **Audio Spectrogram**. Unlock a hidden Absolute Pitch in you.
 - **[BrokenSource/ShaderFlow](https://github.com/BrokenSource/ShaderFlow):** Audio-reactive **Shader Engine** with a Manim-like architecture.
 - **[BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow):** Transform **Images** into stunning **2.5D Parallax** Effect Videos.
+- **[BrokenSource/Pianola](https://github.com/BrokenSource/Pianola):** World's Smoothest and Most Customizable **Piano Roll**.
 
 </div>
