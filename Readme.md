@@ -2,9 +2,9 @@
 
 <div align="center">
   <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" style="vertical-align: middle;" width="100">
-
-  <h3>🍁 Projects <a href="https://brokensrc.dev"><b>Website</b></a> 🍁</h3>
 </div>
+
+<br>
 
 <div align="center">
   <picture>
